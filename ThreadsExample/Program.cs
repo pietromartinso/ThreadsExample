@@ -12,18 +12,23 @@ namespace ThreadsExample
     {
         static void Main(string[] args)
         {
-            Thread thread01 = new Thread(MetodoThread);
-            thread01.Start();
+            Account acc = new Account();
+
+            Thread[] threads = new Thread[12];
+
+            for (int i = 0; i < threads.Length; i++)
+            {
+                Thread thread = new Thread(acc.Withdraw);
+                thread.Name = "Thread " + i;
+                threads[i] = thread;
+            }
+
+            foreach (var item in threads)
+            {
+                item.Start();
+            }
 
             Console.Read();
-        }
-    
-        public static void MetodoThread()
-        {
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine("Thread sendo executada.");
-            }        
         }
     
     }
