@@ -1,0 +1,15 @@
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\bin\Debug\net6.0\ThreadsExample.exe
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\bin\Debug\net6.0\ThreadsExample.deps.json
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\bin\Debug\net6.0\ThreadsExample.runtimeconfig.json
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\bin\Debug\net6.0\ThreadsExample.dll
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\bin\Debug\net6.0\ThreadsExample.pdb
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\ThreadsExample.csproj.AssemblyReference.cache
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\ThreadsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\ThreadsExample.AssemblyInfoInputs.cache
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\ThreadsExample.AssemblyInfo.cs
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\ThreadsExample.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\ThreadsExample.dll
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\refint\ThreadsExample.dll
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\ThreadsExample.pdb
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\ThreadsExample.genruntimeconfig.cache
+C:\Users\Pietro\source\repos\ThreadsExample\ThreadsExample\obj\Debug\net6.0\ref\ThreadsExample.dll
